@@ -13,3 +13,14 @@
 ![1asy512](https://sdrausty.github.io/filesTermuxPovray/nih/1asy512.png)
 
 ![pebbles512](https://sdrausty.github.io/filesTermuxPovray/pebbles/pebbles512.png)
+
+[512](512)
+
+[1024](1024)
+
+[2048](2048)
+
+[4096](4096)
+
+[8192](8192)
+
